@@ -1,3 +1,5 @@
+# fork from cloudera/impala-tpcds-kit,add support of impala_kudu
+
 # A TPC-DS like benchmark for Apache Impala
 
 The official and latest TPC-DS tools and specification can be found at
