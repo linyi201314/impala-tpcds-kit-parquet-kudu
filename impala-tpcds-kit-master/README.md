@@ -47,4 +47,4 @@ impala-shell -f impala-insert.sql
 
 Sample queries from the 10TB scale factor can be found in the `queries/` directory.  The `query-templates/` directory contains the Apache Impala TPC-DS query templates which can be used with `dsqgen` (found in the official TPC-DS tools) to generate queries for other scale factors or to generate more queries with different substitution variables.
 
-## Support impala + kudu dataset
+## Support： impala + kudu dataset
